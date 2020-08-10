@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Resources.meta
+    - Assets/Resources/Orbit.mat
+    - Assets/Resources/Orbit.mat.meta
+    - Assets/Resources/Planet.prefab
+    - Assets/Resources/Planet.prefab.meta
+    - Assets/Scenes.meta
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scenes/SampleScene.unity.meta
+    - Assets/Scenes/SampleSceneSettings.lighting
+    - Assets/Scenes/SampleSceneSettings.lighting.meta
+    - Assets/Script.meta
+    - Assets/Script/IOrbitalCenter.cs
+    - Assets/Script/IOrbitalCenter.cs.meta
+    - Assets/Script/MainScript.cs
+    - Assets/Script/MainScript.cs.meta
+    - Assets/Script/OrbitalBody.cs
+    - Assets/Script/OrbitalBody.cs.meta
+    - Assets/Script/Planet.cs
+    - Assets/Script/Planet.cs.meta
+    - Assets/Script/PlanetSystem.cs
+    - Assets/Script/PlanetSystem.cs.meta
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/UnityConnectSettings.asset
+    - 
+    m_Values: 000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
